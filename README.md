@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **karthikguttu@gmail.com**
 
-- 📄 Know about my experiences [https://sites.google.com/view/varunkarthikportifolio/home](https://sites.google.com/view/varunkarthikportifolio/home)
+- 📄 Know about my experiences [https://vkvarun.in](https://vkvarun.in)
 
 - ⚡ Fun fact **I think i am enthusiastic**
 
