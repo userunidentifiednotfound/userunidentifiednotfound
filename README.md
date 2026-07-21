@@ -1,4 +1,3 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=userunidentifiednotfound&label=Profile%20views&color=0e75b6&style=flat" alt="userunidentifiednotfound" /> </p>
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=VARUN%20KARTHIK%20G&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=CYBER%20SECURITY&descSize=18&descAlignY=55&textBg=false"/>
 
 <p align="center">
